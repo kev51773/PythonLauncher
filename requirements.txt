@@ -1,0 +1,4 @@
+pystray>=0.19.0
+Pillow>=10.0.0
+pywin32>=305
+pyperclip>=1.8.0
